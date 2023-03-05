@@ -6,5 +6,6 @@
   "linked": [],
   "access": "public",
   "updateInternalDependencies": "patch",
-  "ignore": ["@cushily/docs"]
+  "ignore": ["@cushily/docs"],
+  "baseBranch": "main"
 }
