@@ -1,4 +1,4 @@
-# @cushily/core
+# @cushily/design
 
 ## 0.1.0
 

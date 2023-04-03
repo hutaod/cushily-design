@@ -14,10 +14,10 @@ module.exports = {
       resolve: {
         alias: [
           {
-            find: "@cushily/core",
+            find: "@cushily/design",
             replacement: path.resolve(
               __dirname,
-              "../../../packages/cushily-core/"
+              "../../../packages/cushily-design/"
             ),
           },
         ],
